@@ -1,4 +1,4 @@
-***This is our CSCI 4707 Group Project 2 Files**
+***This is our CSCI 4707 Group Project 2 Files***
 
 *Each directory includes one of out of the two steps that were specified in the instructions*
 
