@@ -3,6 +3,7 @@ DROP DATABASE IF EXISTS BookstoreDB;
 CREATE DATABASE BookstoreDB;
 USE BookstoreDB;
 
+-- Create Tables
 CREATE TABLE Customer (
     CustomerID INT PRIMARY KEY,
     Email VARCHAR(255) UNIQUE NOT NULL,
